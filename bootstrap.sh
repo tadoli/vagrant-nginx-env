@@ -2,7 +2,7 @@
 
 USER=vagrant
 USERHOME=/home/vagrant
-NGINX_VERSION="1.4.7"
+NGINX_VERSION="1.6.2"
 NGINX_PATH=/data/program/nginx
 
 apt-get update
